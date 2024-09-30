@@ -1,5 +1,7 @@
-![MasterHead](https://i.imgur.com/CR8DgxB.png)
 ![](https://komarev.com/ghpvc/?username=abdulkadiryugruk&color=blue)
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRqZTJnazN2aWtoN2t0ZDdqOGpnM3NqMDA0YXg3emVmajlrYXhwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YbBPlN24PCeuGenisA/giphy.gif" alt="Dönen GIF" height="400" align="center">
+
 
 <div align="center">
  <a href="https://github.com/abdulkadiryugruk">
@@ -7,10 +9,9 @@
  </a>
 </div>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FjeXR3b3p1YmJqZWxwODhieWZnaGJycDFsMnZiNmQ3andyaXdseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3CqBwtSeJVPQzFPO71/giphy.gif" alt="Dönen GIF" width="200" height="200">
 
 
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnY4aWczNTA5eHBzeng1NXZzanRucm95b2cxNjZxd2t4eWdoOXhqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="sleep" width="200" height="200" align="right">
 - 🔭 I’m currently working on **React Native**
 
 - 🌱 I’m currently learning **React Native**
