@@ -1,7 +1,16 @@
 ![MasterHead](https://i.imgur.com/CR8DgxB.png)
-<h1 align="center">Hi 👋, I'm Abdulkadir Yugruk</h1>
-<h3 align="center">i am improving myself in Software Development 💻</h3>
+![](https://komarev.com/ghpvc/?username=abdulkadiryugruk&color=blue)
 
+<div align="center">
+ <a href="https://github.com/abdulkadiryugruk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=+Hi+%f0%9f%91%8b+I'm+Abdulkadir+Yugruk;%f0%9f%93%9a+i+am+improving+myself+in+Software+Development+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FjeXR3b3p1YmJqZWxwODhieWZnaGJycDFsMnZiNmQ3andyaXdseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3CqBwtSeJVPQzFPO71/giphy.gif" alt="Dönen GIF" width="200" height="200">
+
+
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 - 🔭 I’m currently working on **React Native**
 
 - 🌱 I’m currently learning **React Native**
