@@ -26,4 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadiryugruk&" alt="abdulkadiryugruk" /></p>
 
-![snake gif](https://github.com/abdulkadiryugruk/abdulkadiryugruk/blob/output/github-contribution-grid-snake.gif)
+### Snake Eating My Contributions 🐍
+
+![snake gif](https://github.com/abdulkadiryugruk/abdulkadiryugruk/blob/output/github-contribution-grid-snake.svg)
+
