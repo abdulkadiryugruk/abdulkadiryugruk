@@ -12,6 +12,7 @@
 
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnY4aWczNTA5eHBzeng1NXZzanRucm95b2cxNjZxd2t4eWdoOXhqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="sleep" width="200" height="200" align="right">
+
 - 🔭 I’m currently working on **React Native**
 
 - 🌱 I’m currently learning **React Native**
