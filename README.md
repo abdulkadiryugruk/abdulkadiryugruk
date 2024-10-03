@@ -93,7 +93,7 @@
   <a>
     <img heigth="160" width="182" src="https://i.imgur.com/Br6kF8Q.png">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulkadiryugruk&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="abdulkadiryugruk" />
-    <img heigth="160" width="182" src="https://i.imgur.com/SWSWnoz.png">
+    <img heigth="160" width="182" src="https://i.imgur.com/ahhuS42.png">
   </a>
 </p>
 
@@ -106,7 +106,7 @@
   <a>
     <img heigth="160" width="182" src="https://i.imgur.com/Br6kF8Q.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadiryugruk&theme=material-palenight&hide_border=false" alt="abdulkadiryugruk" width="55%" />
-    <img heigth="160" width="182" src="https://i.imgur.com/SWSWnoz.png">
+    <img heigth="160" width="182" src="https://i.imgur.com/ahhuS42.png">
   </a>
 </p>
  
