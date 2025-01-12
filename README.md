@@ -11,7 +11,6 @@
 
 
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnY4aWczNTA5eHBzeng1NXZzanRucm95b2cxNjZxd2t4eWdoOXhqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" alt="sleep" width="200" height="200" align="right">
 
 - 🔭 I’m currently working on **React Native**
 
@@ -25,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[ <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>](url)
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://linkedin.com/in/abdülkadir yüğrük" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdülkadir yüğrük" height="30" width="40" /></a>
 <a href="https://fb.com/abdülkadir yüğrük" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdülkadir yüğrük" height="30" width="40" /></a>
 <a href="https://instagram.com/codendlayf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codendlayf" height="30" width="40" /></a>
