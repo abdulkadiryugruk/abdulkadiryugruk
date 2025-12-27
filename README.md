@@ -86,9 +86,12 @@
 
 # 📊 Github Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=abdulkadiryugruk&show_icons=true&theme=material-palenight&hide_border=true&count_private=true&v=2)](https://github.com/abdulkadiryugruk)
-[![Streak](https://github-readme-streak-stats.demolab.com/?user=abdulkadiryugruk&theme=material-palenight&hide_border=true&v=2)](https://github.com/abdulkadiryugruk)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadiryugruk&theme=material-palenight&hide_border=true&layout=compact&langs_count=8&v=2)](https://github.com/abdulkadiryugruk)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=abdulkadiryugruk&theme=flat&no-frame=true&no-bg=true&margin-w=4&v=2)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/abdulkadiryugruk">
+    <img src="https://github-readme-stats-umber-eight-38.vercel.app/api?username=abdulkadiryugruk&theme=material-palenight&hide_border=true&show_icons=true" height="180" alt="stats graph" />
+  </a>
+  
+  <a href="https://github.com/abdulkadiryugruk">
+    <img src="https://github-readme-stats-umber-eight-38.vercel.app/api/top-langs/?username=abdulkadiryugruk&theme=material-palenight&hide_border=true&layout=compact&langs_count=6" height="180" alt="top langs" />
+  </a>
+</div>
