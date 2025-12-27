@@ -88,10 +88,10 @@
 
 <div align="center">
   <a href="https://github.com/abdulkadiryugruk">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdulkadiryugruk&show_icons=true&theme=material-palenight&hide_border=true&count_private=true" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abdulkadiryugruk&show_icons=true&theme=material-palenight&hide_border=true&count_private=true&v=1" height="180" alt="stats graph" />
   </a>
   <a href="https://github.com/abdulkadiryugruk">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=abdulkadiryugruk&theme=material-palenight&hide_border=true" height="180" alt="streak graph" />
+    <img src="https://github-readme-streak-stats.demolab.com/?user=abdulkadiryugruk&theme=material-palenight&hide_border=true&v=1" height="180" alt="streak graph" />
   </a>
 </div>
 
@@ -99,7 +99,7 @@
 
 <div align="center">
   <a href="https://github.com/abdulkadiryugruk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadiryugruk&theme=material-palenight&hide_border=true&layout=compact&langs_count=8" height="180" alt="top langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadiryugruk&theme=material-palenight&hide_border=true&layout=compact&langs_count=8&v=1" height="180" alt="top langs" />
   </a>
 </div>
 
@@ -107,6 +107,6 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdulkadiryugruk&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulkadiryugruk&theme=flat&no-frame=true&no-bg=true&margin-w=4&v=1" alt="trophy" />
   </a>
 </div>
