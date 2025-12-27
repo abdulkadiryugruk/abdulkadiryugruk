@@ -91,7 +91,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=abdulkadiryugruk&show_icons=true&theme=material-palenight&hide_border=true&count_private=true" height="180" alt="stats graph" />
   </a>
   <a href="https://github.com/abdulkadiryugruk">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadiryugruk&theme=material-palenight&hide_border=true" height="180" alt="streak graph" />
+    <img src="https://github-readme-streak-stats.demolab.com/?user=abdulkadiryugruk&theme=material-palenight&hide_border=true" height="180" alt="streak graph" />
   </a>
 </div>
 
