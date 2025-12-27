@@ -88,10 +88,17 @@
 
 <div align="center">
   <a href="https://github.com/abdulkadiryugruk">
-    <img src="https://github-readme-stats-umber-eight-38.vercel.app/api?username=abdulkadiryugruk&theme=material-palenight&hide_border=true&show_icons=true" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats-umber-eight-38.vercel.app/api?username=abdulkadiryugruk&show_icons=true&theme=material-palenight&hide_border=true&count_private=true" height="170" alt="stats graph" />
   </a>
-  
   <a href="https://github.com/abdulkadiryugruk">
-    <img src="https://github-readme-stats-umber-eight-38.vercel.app/api/top-langs/?username=abdulkadiryugruk&theme=material-palenight&hide_border=true&layout=compact&langs_count=6" height="180" alt="top langs" />
+    <img src="https://github-readme-streak-stats-beryl-omega.vercel.app/?user=abdulkadiryugruk&theme=material-palenight&hide_border=true" height="170" alt="streak graph" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/abdulkadiryugruk">
+    <img src="https://github-readme-stats-umber-eight-38.vercel.app/api/top-langs/?username=abdulkadiryugruk&theme=material-palenight&hide_border=true&layout=compact&langs_count=8" height="170" alt="top langs" />
   </a>
 </div>
