@@ -84,51 +84,29 @@
 
 
 
-# Github Stats
+# 📊 Github Stats
 
- <br />
- 
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://i.imgur.com/Br6kF8Q.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulkadiryugruk&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="abdulkadiryugruk" />
-    <img heigth="160" width="182" src="https://i.imgur.com/ahhuS42.png">
+<div align="center">
+  <a href="https://github.com/abdulkadiryugruk">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdulkadiryugruk&show_icons=true&theme=material-palenight&hide_border=true&count_private=true" height="180" alt="stats graph" />
   </a>
-</p>
-
-  
-<br />
-
-
- 
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://i.imgur.com/Br6kF8Q.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadiryugruk&theme=material-palenight&hide_border=false" alt="abdulkadiryugruk" width="55%" />
-    <img heigth="160" width="182" src="https://i.imgur.com/ahhuS42.png">
+  <a href="https://github.com/abdulkadiryugruk">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadiryugruk&theme=material-palenight&hide_border=true" height="180" alt="streak graph" />
   </a>
-</p>
- 
+</div>
 
- 
- <br />
- 
-  
-  
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://i.imgur.com/qhXY9W0.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadiryugruk&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="abdulkadiryugruk" />
-    <img heigth="160" width="182" src="https://i.imgur.com/t7QlqZ1.png">
+<br />
+
+<div align="center">
+  <a href="https://github.com/abdulkadiryugruk">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadiryugruk&theme=material-palenight&hide_border=true&layout=compact&langs_count=8" height="180" alt="top langs" />
   </a>
-</p>
- 
-
+</div>
 
 <br />
 
-![](https://github-profile-trophy.vercel.app/?username=abdulkadiryugruk&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
-<br />
-<br />
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulkadiryugruk&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
+</div>
