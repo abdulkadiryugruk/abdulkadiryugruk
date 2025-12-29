@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=abdulkadiryugruk&color=blue)
 
+<div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRqZTJnazN2aWtoN2t0ZDdqOGpnM3NqMDA0YXg3emVmajlrYXhwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YbBPlN24PCeuGenisA/giphy.gif" alt="Dönen GIF" height="400" align="center">
-
+</div>
 
 <div align="center">
  <a href="https://github.com/abdulkadiryugruk">
